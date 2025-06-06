@@ -1,12 +1,4 @@
 # s2sExposure_ms
-Scripts to run an exposure model from s2s data. 
+This repository contains the code to run an exposure model from s2s data for a species, and run the metaranking for regional prioritization. It also contains the data outptuts of the analysis aggregated at species groups.
 
-Workflow is shown for a sample species to protect rights on expert ranges and to avoid reposting data. 
-
-To run the full list of species download IUCN ranges available at https://www.iucnredlist.org/resources/spatial-data-download
-
-Climate s2s forecasts are available at https://gmao.gsfc.nasa.gov/seasonal/GEOS-S2S/
-
-ERA5 data is available at https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land-monthly-means?tab=download
-
-Aggregated results of exposure are found in this repository where you can derived the results of the manuscript. 
+Species expert range maps from IUCN are available at available at https://www.iucnredlist.org/resources/spatial-data-download. The GEOS-S2S-V2 data are available on the Discover server of NCCS at https://www.nccs.nasa.gov/systems/ data-portal, and GEOS-S2S-V2 forecasts output data are presently available at https://gmao.gsfc.nasa.gov/gmaoftp/gmaofcst/. Historical climate reanalysis data from ERA5 are available at https://cds.climate.copernicus.eu/ ERA5. Administrative units available at gadm.org v. 4.1.  Climate exposure results are synthetized by large groups (e.g. mammals, birds, amphibians, reptiles) to respect species expert ranges licensing and protect vulnerable species. These and resulting data are available at a dedicated GitHub repository https://github.com/pepbioalerts/s2sExposure_ms

@@ -1,0 +1,35 @@
+varname;longname;units;details
+extreme_total_area_exp;Total area exposed (extreme);km2;
+monthly_total_area_exp;Total area exposed (monthly);km2;
+extreme_p_area_exp;Proportion of area exposed (extreme);;
+monthly_p_area_exp;Proportion of area exposed (monthly);;
+extreme_p_area_widespreadSp_exposed;Proportion of area exposed (extreme);;widespread species are determine as species covering >50% of the target area
+monthly_p_area_widespreadSp_exposed;Proportion of area exposed (monthly);;widespread species are determine as species covering >50% of the target area
+extreme_N_widespreadExposure;Number of widespred species exposed (extreme);Nsp;widespread species are determine as species covering >50% of the target area
+monthly_N_widespreadExposure;Number of widespred species exposed (monthly);Nsp;widespread species are determine as species covering >50% of the target area
+extreme_P_widespreadExposure;Proportion of widespred species area exposed (extreme);;widespread species are determine as species covering >50% of the target area
+monthly_P_widespreadExposure;Proportion of widespred species area exposed (monthly);;widespread species are determine as species covering >50% of the target area
+extreme_p_area_vulSp_exposed;Proportion of vulnerable species area exposed (extreme);;vulnerable species are identifed as species in IUCN categories of Critically Endangered,Endangered,Vulnerable or Data deficient.
+monthly_p_area_vulSp_exposed;Proportion of vulnerable species area exposed (monthly);;vulnerable species are identifed as species in IUCN categories of Critically Endangered,Endangered,Vulnerable or Data deficient.
+extreme_P_vulnerableExposure;Proportion of vulnerable species exposed (extreme);;vulnerable species are identifed as species in IUCN categories of Critically Endangered,Endangered,Vulnerable or Data deficient.
+monthly_P_vulnerableExposure;Proportion of vulnerable species exposed (monthly);;vulnerable species are identifed as species in IUCN categories of Critically Endangered,Endangered,Vulnerable or Data deficient.
+extreme_P_vulnerableExposure50;Proportion of vulnerable species exposed to >50% of their range area (extreme);;vulnerable species are identifed as species in IUCN categories of Critically Endangered, Endangered, Vulnerable or Data deficient.
+monthly_P_vulnerableExposure50;Proportion of vulnerable species exposed to >50% of their range area (monthly);;vulnerable species are identifed as species in IUCN categories of Critically Endangered, Endangered, Vulnerable or Data deficient.
+extreme_N_vulnerableExposure50;Number of vulnerable species exposed to >50% of their range area (extreme);Nsp;vulnerable species are identifed as species in IUCN categories of Critically Endangered, Endangered, Vulnerable or Data deficient.
+monthly_N_vulnerableExposure50;Number of vulnerable species exposed to >50% of their range area (monthly);Nsp;vulnerable species are identifed as species in IUCN categories of Critically Endangered, Endangered, Vulnerable or Data deficient.
+extreme_N_vulnerableExposure;Number of vulnerable species exposed (extreme);Nsp;vulnerable species are identifed as species in IUCN categories of Critically Endangered, Endangered, Vulnerable or Data deficient.
+monthly_N_vulnerableExposure;Number of vulnerable species exposed (monthly);Nsp;vulnerable species are identifed as species in IUCN categories of Critically Endangered, Endangered, Vulnerable or Data deficient.
+extreme_average_incidence;Average number of exposure events (extreme);Nevents;
+monthly_average_incidence;Average number of exposure events (monthly);Nevents;
+extreme_sum_incidence;Total number of exposure events (extreme);Nevents;
+monthly_sum_incidence;Total number of exposure events (monthly);Nevents;
+extreme_incidence_variance;Variance of exposure events (extreme);;
+monthly_incidence_variance;Variance of exposure events (monthly);;
+extreme_first_date;First exposure event (extreme);date;
+monthly_first_date;First exposure event (monthly);date;
+extreme_last_date;Last exposure event (extreme);date;
+monthly_last_date;Last exposure event (monthly);date;
+extreme_max_length;Exposure event maximum length (extreme);months;
+monthly_max_length;Exposure event maximum length (monthly);months;
+extreme_peak_date;Peak date of exposure event (extreme);date;
+monthly_peak_date;Peak date of exposure event (monthly);date;
